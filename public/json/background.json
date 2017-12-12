@@ -1,0 +1,39 @@
+{
+    "sheetName": "background",
+
+    "tiles": [
+        {
+            "name": "ground",
+            "pos": [0, 0] 
+        },
+        {
+            "name": "brick-1",
+            "pos": [1, 0] 
+        },
+        {
+            "name": "brick-2",
+            "pos": [2, 0] 
+        },
+        {
+            "name": "metal",
+            "pos": [3, 0] 
+        },
+        {
+            "name": "tree-bark",
+            "pos": [0, 1] 
+        },
+        {
+            "name": "chocolate",
+            "pos": [5, 1] 
+        },
+        {
+            "name": "chance",
+            "pos": [24, 0] 
+        },
+        {
+            "name": "sky",
+            "pos": [3, 23]
+        }
+
+    ]
+}
